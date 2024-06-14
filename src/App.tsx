@@ -4,6 +4,7 @@ import Dishes from './components/pages/dishes/dishes';
 import Menu from './components/pages/menu/menu';
 import Galleries from './components/pages/galleries/galleries';
 import Reservation from './components/pages/reservation/reservation';
+import Footer from './components/pages/footer/footer';
 
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
       <Menu/>
       <Galleries/>
       <Reservation/>
-
+      <Footer/>
     </div>
   );
 }
