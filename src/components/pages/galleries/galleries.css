@@ -80,20 +80,5 @@
 .grid_img6:hover,
 .grid_img7:hover {
     cursor: pointer;
-    position: relative;
-    display: inline-block;
-}
 
-.after_hover {
-    position: absolute;
-    top: 44%;
-    left: 48%;
-    height: 30px;
-    opacity: 1;
-    transition: opacity 0.3s ease;
-}
-
-.after_hover:hover {
-    position: absolute;
-    opacity: 1;
 }

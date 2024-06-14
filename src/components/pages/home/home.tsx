@@ -7,6 +7,7 @@ function Home() {
     return (
         <div className='home_section'>
             <div className='navigation'>
+                <div className='nav'>
                 <img className='logo' src={logo} alt='logo' />
                 <div className='navigation_menu'>
                     <div className='menu_link'>Home</div>
@@ -16,7 +17,8 @@ function Home() {
                     <div className='menu_link'>Reservation</div>
                 </div>
             </div>
-            
+            </div>
+
             <div className='home_content'>
                 <div className='home_content_details'>
                     <div className='home_title'>Delicious Cupcakes</div>

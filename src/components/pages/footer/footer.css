@@ -1,5 +1,5 @@
 .footer_section {
-    height: 460px;
+    height: 430px;
     width: 100%;
     background-color: #04091e;
     display: flex;
@@ -19,11 +19,13 @@
     padding-bottom: 20px;
     font-size: 19px;
     font-weight: 500;
+    cursor: pointer;
 }
 
 .footer_text,
 .newsletter_text {
     color: grey;
+    cursor: pointer;
 }
 
 .footer_element {
