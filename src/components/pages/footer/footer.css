@@ -5,6 +5,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
 }
 
 .footer_details {
@@ -63,3 +64,4 @@
     background-color: red;
     border: 0;
 }
+

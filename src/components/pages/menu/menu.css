@@ -1,6 +1,6 @@
 .menu_section {
     background-color: #f0f2fe;
-    width: 100%;
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
