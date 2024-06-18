@@ -1,9 +1,12 @@
 import './menu.css';
-
+import truck from './../../../images/truck.png';
 
 function Menu() {
     return (
         <div className='menu_section'>
+            <div className='truck_animation'>
+              <img className='truck' src={truck} alt='truck'/>  
+            </div>
             <div className='menu_title'>Our Favourite Menu</div>
             <div className='all_meniu'>
                 <div className='menu_1'>
