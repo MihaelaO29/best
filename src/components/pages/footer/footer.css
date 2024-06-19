@@ -29,6 +29,11 @@
     cursor: pointer;
 }
 
+.footer_text:hover{
+    font-weight: 400;
+    color: white;
+}
+
 .footer_element {
     height: 200px;
     display: flex;
