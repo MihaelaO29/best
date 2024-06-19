@@ -41,7 +41,7 @@ function Reservation() {
                             />
                         </div>
 
-                        <Select options={options} />
+                        <Select placeholder={'Select event'} options={options} />
                     </div>
                     <button className='reservation_btn'>Make Reservation</button>
                 </div>

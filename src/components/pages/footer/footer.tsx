@@ -51,7 +51,7 @@ function Footer() {
                             placeholder='Enter your email address'
                         />
                         <button className='submit_btn'>
-                            <img src={submit} alt='submit' />
+                            <img  className='submit' src={submit} alt='submit' />
                         </button>
                     </div>
                 </div>

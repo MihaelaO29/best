@@ -38,14 +38,14 @@ function Home() {
                     <button className='home_btn'>Check Our Menu</button>
                 </div>
 
-                <div className="cupcake-container">
-                    <img src={cupcake} alt="Cupcake" className="cupcake-image" />
-                    <img src={icon1} alt="Icon 1" className="icon icon1" />
-                    <img src={icon2} alt="Icon 2" className="icon icon2" />
-                    <img src={icon3} alt="Icon 3" className="icon icon3" />
-                    <img src={icon4} alt="Icon 4" className="icon icon4" />
-                    <img src={icon5} alt="Icon 5" className="icon icon5" />
-                    <img src={icon6} alt="Icon 6" className="icon icon6" />
+                <div className='cupcake-container'>
+                    <img src={cupcake} alt='Cupcake' className='cupcake-image' />
+                    <img src={icon1} alt='Icon 1' className='icon icon1' />
+                    <img src={icon2} alt='Icon 2' className='icon icon2' />
+                    <img src={icon3} alt='Icon 3' className='icon icon3' />
+                    <img src={icon4} alt='Icon 4' className='icon icon4' />
+                    <img src={icon5} alt='Icon 5' className='icon icon5' />
+                    <img src={icon6} alt='Icon 6' className='icon icon6' />
                 </div>
             </div>
             <div>
