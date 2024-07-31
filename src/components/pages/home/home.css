@@ -1,6 +1,6 @@
 .home_section {
   height: 100vh;
-  width: 100%;
+  width: 100vw;
   overflow-y: hidden;
 }
 
@@ -8,7 +8,6 @@
   height: 100px;
   background-color: #bbc0dc;
 }
-
 
 .nav {
   height: 100%;
@@ -43,6 +42,7 @@
 
 .home_content {
   height: 580px;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
